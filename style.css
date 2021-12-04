@@ -1,0 +1,33 @@
+.my_block{
+	height: 250px;
+	width: 250px;
+	border: 1px solid black;
+}
+.my_block:hover{
+	background-color: black;
+	color: whitesmoke;
+}
+a:visited{
+	color: yellow;
+}
+a:active{
+	color: gray;
+}
+a:link{
+	text-decoration: none;
+	color: palegreen;
+}
+input:focus{
+	color: blue;
+}
+li:first-child{
+	font-size: 20px;
+}
+li:last-child{
+	font-size: 10px;
+}
+li:nth-child(n){
+	color: cornflowerblue;
+}
+900px
+1000px
